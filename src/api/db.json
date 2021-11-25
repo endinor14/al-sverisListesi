@@ -1,0 +1,104 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "product": "Gazete",
+      "price": 1,
+      "checked": false
+    },
+    {
+      "id": 2,
+      "product": "Çikolata",
+      "price": 3,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "product": "Gofret",
+      "price": 4,
+      "checked": false
+    },
+    {
+      "id": 4,
+      "product": "Bisküvi",
+      "price": 8,
+      "checked": false
+    },
+    {
+      "id": 5,
+      "product": "Çubuk Kraker",
+      "price": 9,
+      "checked": false
+    },
+    {
+      "product": "a",
+      "price": "7",
+      "id": 6
+    },
+    {
+      "product": "a",
+      "price": "9",
+      "id": 7
+    },
+    {
+      "product": "f",
+      "price": "10",
+      "id": 8
+    },
+    {
+      "product": "f",
+      "price": "11",
+      "id": 9
+    },
+    {
+      "product": "a",
+      "price": "12",
+      "id": 10
+    },
+    {
+      "product": "dolma",
+      "price": "8",
+      "id": 11
+    },
+    {
+      "ad": "sssssssssssssss",
+      "soyad": "1",
+      "id": 12
+    },
+    {
+      "product": "Kazım",
+      "price": "1",
+      "id": 13
+    },
+    {
+      "product": "burak",
+      "price": "8",
+      "id": 14
+    },
+    {
+      "product": "a",
+      "price": "3",
+      "id": 15
+    },
+    {
+      "product": "vvvvvv",
+      "price": "1",
+      "id": 16
+    },
+    {
+      "product": "a",
+      "price": "5",
+      "id": 17
+    }
+  ],
+  "denemeList": [
+    {
+      "ad": "Burak",
+      "soyad": "Pancar"
+    },
+    {
+      "ad": "Burak",
+      "soyad": "Pancar"
+    }
+  ]
+}
